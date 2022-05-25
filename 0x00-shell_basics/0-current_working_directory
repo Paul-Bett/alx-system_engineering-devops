@@ -1,2 +1,2 @@
-#!/in/bash
-find -name 0-current_working_directory
+#!/bin/bash
+find -name  0-current_working_directory
