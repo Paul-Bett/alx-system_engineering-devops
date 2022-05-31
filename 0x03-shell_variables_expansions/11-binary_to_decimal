@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$((log10$((log2(BINARY)))))\n"
+echo '$BINARY/l(10)' | bc -l
