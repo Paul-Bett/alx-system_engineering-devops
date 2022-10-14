@@ -3,5 +3,5 @@
 while :
 do
 echo "To infinity and beyond"
-sleep 2
+sleep 0.111111111115
 done
