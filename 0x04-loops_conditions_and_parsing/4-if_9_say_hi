@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Bash script that displays "Holberton School" 10 times and "Hi" in 9th iteration times
+# Bash script that displays "Best School" 10 times and "Hi" in 9th iteration times
 cont=0
 while [ $cont -lt 10 ];
 do
@@ -7,6 +7,6 @@ do
     then
 echo "Hi"
     fi
-    echo "Holberton School"
+    echo "Best School"
     let cont=cont+1
 done
